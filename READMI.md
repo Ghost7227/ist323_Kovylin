@@ -45,7 +45,7 @@
 Он уже герой легенд
 Он свет несёт
 
-'''
+```
 public MainWindow()
 {
     InitializeComponent();
@@ -67,7 +67,7 @@ private void ComboBox_SelectionChanged(object sender, SelectionChangedEventArgs 
     Application.Current.Resources.Clear();
     Application.Current.Resources.MergedDictionaries.Add(resourceDictionary);
 }
-'''
+```
 
 Первая цитата 
     >цитата внутри 
